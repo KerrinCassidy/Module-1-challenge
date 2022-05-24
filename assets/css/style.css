@@ -30,7 +30,7 @@ header h1 {
 
 /* Set the highlite in brand name */
 header h1 seo::after{
-    color: cyan;
+    color: #ffa500;
     content: "seo";
 }
 
